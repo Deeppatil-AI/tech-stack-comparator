@@ -1,3 +1,0 @@
-mkdir .kiro
-touch .kiro/prompts.md
-touch .kiro/decisions.md
